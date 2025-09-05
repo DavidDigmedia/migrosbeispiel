@@ -1,18 +1,45 @@
-﻿Artikelname DE;Artikelname EN;Preis;;;;;;;;;;;;;;
-Schoggi klein;Chocolate  ;CHF 0.40;;;;;;;;;;;;;;
-Mahony;Mahony  ;CHF 0.50;;;;;;;;;;;;;;
-Schoggikugel;Chocolate Ball  ;CHF 0.50;;;;;;;;;;;;;;
-Lindorkugel;Lindor Ball  ;CHF 0.90;;;;;;;;;;;;;;
-Schokoladenriegel, diverse Sorten;Chocolate, , assorted varieties ;CHF 1.40;;;;;;;;;;;;;;
-Ovomaltine Branchli;Ovomaltine Branchli  ;CHF 1.60;;;;;;;;;;;;;;
-Snickers;Snickers  ;CHF 2.00;;;;;;;;;;;;;;
-Mars;Mars  ;CHF 2.00;;;;;;;;;;;;;;
-Twix;Twix  ;CHF 2.00;;;;;;;;;;;;;;
-Toblerone;Toblerone  ;CHF 2.00;;;;;;;;;;;;;;
-Kägifret;KägiFrett  ;CHF 2.10;;;;;;;;;;;;;;
-Ragusa;Ragusa  ;CHF 2.20;;;;;;;;;;;;;;
-Kaugumi Stimorol;Stimorol Chewing Gum  ;CHF 1.80;;;;;;;;;;;;;;
-V6 Dental Peppermint;Ricola Box  ;CHF 3.50;;;;;;;;;;;;;;
-Haribo Gold Bären;Haribo Gold Bears  ;CHF 2.20;;;;;;;;;;;;;;
-Ricola Box;Ricola Box;CHF 3.50;;;;;;;;;;;;;;
-Fisherman's Friend, diverse Sorten;Fisherman’s Friend, assorted varieties;CHF 2.50;;;;;;;;;;;;;;
+﻿Artikelname DE;Artikelname EN;Preis;Kategorie
+Schoggi klein;Chocolate  ;CHF 0.40;Kiosk
+Mahony;Mahony  ;CHF 0.50;Kiosk
+Schoggikugel;Chocolate Ball  ;CHF 0.50;Kiosk
+Lindorkugel;Lindor Ball  ;CHF 0.90;Kiosk
+Schokoladenriegel, diverse Sorten;Chocolate, , assorted varieties ;CHF 1.40;Kiosk
+Ovomaltine Branchli;Ovomaltine Branchli  ;CHF 1.60;Kiosk
+Snickers;Snickers  ;CHF 2.00;Kiosk
+Mars;Mars  ;CHF 2.00;Kiosk
+Twix;Twix  ;CHF 2.00;Kiosk
+Toblerone;Toblerone  ;CHF 2.00;Kiosk
+Kägifret;KägiFrett  ;CHF 2.10;Kiosk
+Ragusa;Ragusa  ;CHF 2.20;Kiosk
+Kaugumi Stimorol;Stimorol Chewing Gum  ;CHF 1.80;Kiosk
+V6 Dental Peppermint;Ricola Box  ;CHF 3.50;Kiosk
+Haribo Gold Bären;Haribo Gold Bears  ;CHF 2.20;Kiosk
+Ricola Box;Ricola Box;CHF 3.50;Kiosk
+Fisherman's Friend, diverse Sorten;Fisherman’s Friend, assorted varieties;CHF 2.50;Kiosk
+Turny Wasserglacé;Turny Wasserglacé;CHF 1.90;Glacé
+Snickers, Eisriegel;Snickers, Eisriegel;CHF 2.20;Glacé
+Mars, Eisriegel;Mars, Eisriegel;CHF 2.20;Glacé
+Megastar, Almond ;Megastar, Almond ;CHF 3.30;Glacé
+Megastar, Caramel;Megastar, Caramel;CHF 3.30;Glacé
+Cornet-Glacé, Vanille;Cornet-Glacé, Vanille;CHF 3.30;Glacé
+Cornet-Glacé, Erdbeer;Cornet-Glacé, Erdbeer;CHF 3.30;Glacé
+Cornet-Glacé, Schokolade;Cornet-Glacé, Schokolade;CHF 3.30;Glacé
+Glacé-Becher, Café;Glacé-Becher, Café;CHF 3.50;Glacé
+Knutwiler Mineral ohne Kohlensäure, 5dl;Knutwiler Mineral ohne Kohlensäure, 5dl;CHF 2.20;Kalte Getränke
+Knutwiler Mineral mit Kohlensäure, 5dl;Knutwiler Mineral mit Kohlensäure, 5dl;CHF 2.20;Kalte Getränke
+Coca Cola Original, 5dl;Coca Cola Original, 5dl;CHF 2.60;Kalte Getränke
+Coca Cola Zero, 5dl ;Coca Cola Zero, 5dl ;CHF 2.60;Kalte Getränke
+Rivella Rot, 5dl;Rivella Rot, 5dl;CHF 2.60;Kalte Getränke
+Rivella blau, 5 dl;Rivella blau, 5 dl;CHF 2.60;Kalte Getränke
+Rivella gelb, vegan, 5dl;Rivella gelb, vegan, 5dl;CHF 2.60;Kalte Getränke
+Apfelschorle Ramseier, 5dl;Apfelschorle Ramseier, 5dl;CHF 2.60;Kalte Getränke
+Fanta Mango, 5 dl;Fanta Mango, 5 dl;CHF 2.60;Kalte Getränke
+Eistee Lemon, 5dl;Eistee Lemon, 5dl;CHF 2.60;Kalte Getränke
+Eistee Peach, 5dl;Eistee Peach, 5dl;CHF 2.60;Kalte Getränke
+Knutwiler Himbeerwasser, 5dl;Knutwiler Himbeerwasser, 5dl;CHF 2.60;Kalte Getränke
+Knutwiler Schnitzwasser, 5dl;Knutwiler Schnitzwasser, 5dl;CHF 2.60;Kalte Getränke
+Orangenmost, 5dl;Orangenmost, 5dl;CHF 3.00;Kalte Getränke
+Focus Water Kick Pfirsich & Apfel, 5dl;Focus Water Kick Pfirsich & Apfel, 5dl;CHF 3.00;Kalte Getränke
+Focus Water Immunity Orange & Dragonfruit, 5dl;Focus Water Immunity Orange & Dragonfruit, 5dl;CHF 3.00;Kalte Getränke
+Focus Water Active Ananas & Mango, 5dl;Focus Water Active Ananas & Mango, 5dl;CHF 3.00;Kalte Getränke
+Focuswater Reload Zitrone & Limette, 5dl;Focuswater Reload Zitrone & Limette, 5dl;CHF 3.00;Kalte Getränke
